@@ -1,26 +1,12 @@
-# Bones — Windows Run and Build Guide (README)
+# Bones — Simple Install and User Guide (Windows and Linux)
 
 A desktop app for the graphic description of skeletal finds from archaeological excavations. Outline preserved bone elements, annotate fragments, compute basic stats, and export CSV/PDF.
 
 This guide is optimized for Windows and suitable for all experience levels.
 
 Important
-- Windows only: This project currently supports Windows. macOS is not supported. Linux is not covered in this guide.
-- App root: The application lives in the bones folder. Always run commands from that directory.
-- Required Node/npm versions: See engines in [bones/package.json](bones/package.json:21).
-
-Here’s the skeleton SVG:
-
-<!-- Inline preview -->
-<img src="https://github.com/Nika72/TestBon/blob/main/szkielet_base_plain_no_markings_ids.svg"
-     alt="Skeleton SVG" width="150">
-
-
-Click below to download directly:
-
-<a href="https://github.com/Nika72/TestBon/blob/main/szkielet_base_plain_no_markings_ids.svg" download="skeleton.svg">⬇️ Download the SVG</a>
-
-
+- Windows/linux: This project currently supports Windows/linux. macOS is not supported. Linux is not covered in this guide.
+- 
 ## 1) Bones - Install Guide
 
 Install from GitHub Releases
