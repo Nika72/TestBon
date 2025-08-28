@@ -62,6 +62,17 @@ You will need a skeleton SVG file to use as a background.
 
 Tip: You can quickly check the SVG in a vector editor and confirm that each bone outline is closed and has a unique id.
 
+Here’s the skeleton SVG:
+
+<!-- Inline preview -->
+<img src="https://github.com/Nika72/TestBon/blob/main/szkielet_base_plain_no_markings_ids.svg"
+     alt="Skeleton SVG" width="150">
+
+
+Click below to download directly:
+
+<a href="https://github.com/Nika72/TestBon/blob/main/szkielet_base_plain_no_markings_ids.svg" download="skeleton.svg">⬇️ Download the SVG</a>
+
 
 ## 3) First run — Create or open a collection
 
