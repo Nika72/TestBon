@@ -68,10 +68,6 @@ You will need a skeleton SVG file to use as a background.
   - Each closed path must have a unique id equal to the bone name. If you have multiple views of the same bone, add a prefix/suffix to make ids unique.
   - Non-closed paths are treated as auxiliary information only.
   - No groups/layers: keep the SVG flat (single layer).
-  - These rules ensure the app can parse your SVG correctly. Internally, the app converts your SVG to GeoJSON when you add the background [addNewBackground.ts](bones/src/services/addNewBackground.ts:18).
-
-Tip: You can quickly check the SVG in a vector editor and confirm that each bone outline is closed and has a unique id.
-
 
 ## 3) First run — Create or open a collection
 
