@@ -12,4 +12,4 @@ Here’s the skeleton SVG:
 
 Click below to download directly:
 
-<a href="https://raw.githubusercontent.com/Nika72/TestBon/main/szkielet_base_plain_no_markings_ids.svg" download="skeleton.svg">⬇️ Download the SVG</a>
+<a href="https://github.com/Nika72/TestBon/blob/main/szkielet_base_plain_no_markings_ids.svg" download="skeleton.svg">⬇️ Download the SVG</a>
