@@ -60,8 +60,8 @@ Click below to download directly:
 
 You will need a skeleton SVG file to use as a background.
 
-- Where to get it
-  - Click “DOWNLOAD SVG”. On the next page, click “Download raw file” and save it to your computer.
+- After clicking on “DOWNLOAD SVG”
+  - On the next page, click “Download raw file” and save it to your computer.
 
 - SVG requirements (important)
   - Each bone outline must be a closed path.
