@@ -8,7 +8,6 @@ Here’s the skeleton SVG:
 <img src="https://github.com/Nika72/TestBon/blob/main/szkielet_base_plain_no_markings_ids.svg"
      alt="Skeleton SVG" width="150">
 
----
 
 Click below to download directly:
 
