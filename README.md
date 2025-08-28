@@ -47,21 +47,6 @@ Launch the app
 
 ## 2) Get the skeleton SVG (background)
 
-You will need a skeleton SVG file to use as a background.
-
-- Where to get it
-  - In the project README on GitHub, look for the “DOWNLOAD SVG” link.
-  - Click it. On the next page, click “Download raw file” and save it to your computer.
-
-- SVG requirements (important)
-  - Each bone outline must be a closed path.
-  - Each closed path must have a unique id equal to the bone name. If you have multiple views of the same bone, add a prefix/suffix to make ids unique.
-  - Non-closed paths are treated as auxiliary information only.
-  - No groups/layers: keep the SVG flat (single layer).
-  - These rules ensure the app can parse your SVG correctly. Internally, the app converts your SVG to GeoJSON when you add the background [addNewBackground.ts](bones/src/services/addNewBackground.ts:18).
-
-Tip: You can quickly check the SVG in a vector editor and confirm that each bone outline is closed and has a unique id.
-
 Here’s the skeleton SVG:
 
 <!-- Inline preview -->
@@ -72,6 +57,20 @@ Here’s the skeleton SVG:
 Click below to download directly:
 
 <a href="https://github.com/Nika72/TestBon/blob/main/szkielet_base_plain_no_markings_ids.svg" download="skeleton.svg">⬇️ Download the SVG</a>
+
+You will need a skeleton SVG file to use as a background.
+
+- Where to get it
+  - Click “DOWNLOAD SVG”. On the next page, click “Download raw file” and save it to your computer.
+
+- SVG requirements (important)
+  - Each bone outline must be a closed path.
+  - Each closed path must have a unique id equal to the bone name. If you have multiple views of the same bone, add a prefix/suffix to make ids unique.
+  - Non-closed paths are treated as auxiliary information only.
+  - No groups/layers: keep the SVG flat (single layer).
+  - These rules ensure the app can parse your SVG correctly. Internally, the app converts your SVG to GeoJSON when you add the background [addNewBackground.ts](bones/src/services/addNewBackground.ts:18).
+
+Tip: You can quickly check the SVG in a vector editor and confirm that each bone outline is closed and has a unique id.
 
 
 ## 3) First run — Create or open a collection
