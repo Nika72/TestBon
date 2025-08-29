@@ -61,10 +61,8 @@ Launch the app
 Here’s the skeleton SVG:
 
 <!-- Inline preview -->
-<div style="background:white; display:inline-block; padding:10px;">
   <img src="https://raw.githubusercontent.com/Nika72/TestBon/refs/heads/main/szkielet_base_plain_no_markings_ids.svg"
        width="200" alt="Skeleton SVG">
-</div>
 
 Click below to download directly:
 
