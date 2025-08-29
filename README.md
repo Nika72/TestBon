@@ -3,7 +3,7 @@
 **Bones** is a desktop application designed for the graphic documentation of skeletal remains from archaeological excavations.  
 With it, you can outline preserved bone elements, annotate fragments, generate basic statistics, and export results in CSV or PDF format.  
 
-This guide provides step-by-step instructions for Windows users and can be easily followed regardless of prior experience.
+This guide provides step-by-step instructions for Windows and linux users and can be easily followed regardless of prior experience.
 
 ---
 
