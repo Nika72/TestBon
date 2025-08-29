@@ -1,8 +1,19 @@
-# Bones — Simple Install and User Guide (Windows and Linux)
+# Bones — Installation and User Guide (Windows & Linux)
 
-A desktop app for the graphic description of skeletal finds from archaeological excavations. Outline preserved bone elements, annotate fragments, compute basic stats, and export CSV/PDF.
+**Bones** is a desktop application designed for the graphic documentation of skeletal remains from archaeological excavations.  
+With it, you can outline preserved bone elements, annotate fragments, generate basic statistics, and export results in CSV or PDF format.  
 
-This guide is optimized for Windows and suitable for all experience levels.
+This guide provides step-by-step instructions for Windows users and can be easily followed regardless of prior experience.
+
+---
+
+## Acknowledgements
+
+This software was created within the scope of the NCN (National Science Centre, Poland) grant:  
+**“Muslim women in Fatimid Alexandria: Why did they die young? Biocultural factors in the change of living conditions for people buried at Kom el-Dikka in Mediaeval Alexandria compared to the rural Christian population on the fringes of Fayoum.”**
+
+More information is available [here](<https://pcma.uw.edu.pl/en/2023/08/11/project-muslim-women-in-fatimid-alexandria/>).
+
 
 Important
 - Windows/linux: This project currently supports Windows/linux. macOS is not supported. Linux is not covered in this guide.
