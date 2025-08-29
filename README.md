@@ -62,13 +62,16 @@ Here’s the skeleton SVG:
 
 <!-- Inline preview -->
 <div style="background-color:white; display:inline-block;">
-<img src="https://github.com/Nika72/TestBon/blob/main/szkielet_base_plain_no_markings_ids.svg"
-     alt="Skeleton SVG" width="150">
+
+  <img src="https://raw.githubusercontent.com/Nika72/TestBon/refs/heads/main/szkielet_base_plain_no_markings_ids.svg"
+       alt="Skeleton SVG" width="150">
+
 </div>
 
 Click below to download directly:
 
-<a href="https://github.com/Nika72/TestBon/blob/main/szkielet_base_plain_no_markings_ids.svg" download="skeleton.svg">⬇️ Download the SVG</a>
+<a href="https://raw.githubusercontent.com/Nika72/TestBon/refs/heads/main/szkielet_base_plain_no_markings_ids.svg" download="skeleton.svg">⬇️ Download the SVG</a>
+
 
 You will need a skeleton SVG file to use as a background.
 
