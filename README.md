@@ -72,6 +72,11 @@ Click below to download directly:
 
 <a href="https://raw.githubusercontent.com/Nika72/TestBon/refs/heads/main/szkielet_base_plain_no_markings_ids.svg" download="skeleton.svg">⬇️ Download the SVG</a>
 
+<a href="https://raw.githubusercontent.com/Nika72/TestBon/main/szkielet_base_plain_no_markings_ids.svg" download="skeleton.svg">
+⬇️ Download the SVG
+</a>
+
+
 
 You will need a skeleton SVG file to use as a background.
 
