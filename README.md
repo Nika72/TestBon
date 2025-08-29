@@ -62,10 +62,11 @@ Here’s the skeleton SVG:
 
 <!-- Inline preview -->
 <div style="background-color:white; display:inline-block;">
+<rect width="100%" height="100%" fill="white"/>
 
   <img src="https://raw.githubusercontent.com/Nika72/TestBon/refs/heads/main/szkielet_base_plain_no_markings_ids.svg"
        alt="Skeleton SVG" width="150">
-
+</rect>
 </div>
 
 Click below to download directly:
