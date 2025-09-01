@@ -58,8 +58,6 @@ Launch the app
 
 ## 2) Get the skeleton SVG (background)
 
-Here’s the skeleton SVG:
-
 <!-- Inline preview -->
   <img src="assets/copy.png"
        width="300" alt="Skeleton PNG preview">
@@ -67,7 +65,6 @@ Here’s the skeleton SVG:
 Click below to download directly:
 
 <a href="https://raw.githubusercontent.com/Nika72/TestBon/refs/heads/main/szkielet_base_plain_no_markings_ids.svg" download="skeleton.svg">⬇️ Download the SVG</a>
-
 
 
 You will need a skeleton SVG file to use as a background.
