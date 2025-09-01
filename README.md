@@ -66,8 +66,8 @@ Launch the app
 
 You will need a skeleton SVG file to use as a background.
 
-Note: When downloading the SVG, your browser will open it as an image.  
-To save it properly:
+Note: When you download the SVG, it will first open in your browser (as an image).  
+To save it correctly on your computer:
 -  Right-click on the image
 -  Choose **“Save As…”**
 -  Save it as `skeleton.svg` on your computer
