@@ -63,22 +63,19 @@ Launch the app
        width="300" alt="Skeleton PNG preview">
 
 
-<a href="https://raw.githubusercontent.com/Nika72/TestBon/refs/heads/main/szkielet_base_plain_no_markings_ids.svg" download="skeleton.svg">⬇️ Download the SVG</a>
-
 
 You will need a skeleton SVG file to use as a background.
 
 Note: When downloading the SVG, your browser will open it as an image.  
 To save it properly:
-- 1. Right-click on the image
-- 2. Choose **“Save As…”**
-- 3. Save it as `skeleton.svg` on your computer
-
- ---
+-  Right-click on the image
+-  Choose **“Save As…”**
+-  Save it as `skeleton.svg` on your computer
 
 Click below to open and download:
 <a href="https://raw.githubusercontent.com/Nika72/TestBon/refs/heads/main/szkielet_base_plain_no_markings_ids.svg" download="skeleton.svg">⬇️ Download the SVG</a>
 
+ ---
 
 - SVG requirements (important)
   - Each bone outline must be a closed path.
